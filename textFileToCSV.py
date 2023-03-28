@@ -4,10 +4,10 @@ from openpyxl import Workbook
 import csv
 import os
 
-filepath = r'C:/Users/beauc/Desktop/eBP/'
+filepath = r'C:/filepath/'
 filename = r"2023-03-14_P-config-set.txt"
 filename_csv = 'conversionOfRawFWRules.csv'
-filename_xlsx = 'conversionOfRawFWRules Princeton.xlsx'
+filename_xlsx = 'conversionOfRawFWRules.xlsx'
 listVar = []
 
 # Define the headers for the CSV file
