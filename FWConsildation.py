@@ -9,8 +9,8 @@ from urllib.parse import urlparse
 #===============================================================
 #region Basic Vars
 #Basic Vars
-site_name = "Princeton"
-filepath = r'C:/Users/beauc/Desktop/eBP/'
+site_name = "  PUT SOMETHING HERE"
+filepath = r'C: blah blah blah/'
 filename = r"conversionOfRawFWRules " + site_name + ".xlsx"
 filenamelog = r"conversionOfRawFWRules " + site_name + ".log"
 filenameOut = r"Consolidation of FW Rules " + site_name + ".xlsx"
